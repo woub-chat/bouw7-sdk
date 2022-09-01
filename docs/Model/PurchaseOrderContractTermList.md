@@ -1,0 +1,18 @@
+# PurchaseOrderContractTermList
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**items** | [**\Swagger\Client\Model\PurchaseOrderContractTermListItem[]**](PurchaseOrderContractTermListItem.md) |  | [optional] 
+**amount** | **string** | The sum of all purchase order contract contract term amounts. | [optional] 
+**amount_to_receive** | **string** | The sum of all purchase order contract contract term amounts to receive. | [optional] 
+**sub_total** | **string** | The sum of all purchase order contract contract term subtotals, excluding VAT. | [optional] 
+**cost_to_receive** | **string** | The sum of all purchase order contract contract term costs to receive. | [optional] 
+**cost_received** | **string** | The sum of all purchase order contract contract term received costs. | [optional] 
+**count** | **int** | The total amount of records in the entire collection. | [optional] 
+**limit** | **int** | The amount of results, as requested. | [optional] 
+**offset** | **int** | The starting index. | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
