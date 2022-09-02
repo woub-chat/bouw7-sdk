@@ -1,18 +1,17 @@
 {
-    "name": "/",
+    "name": "bouw7-sdk",
     "description": "",
     "keywords": [
-        "swagger",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
+
     "license": "proprietary",
     "authors": [
         {
-            "name": "Swagger and contributors",
-            "homepage": "https://github.com/swagger-api/swagger-codegen"
+            "name": "Pawa",
+            "homepage": "https://github.com/pawas007"
         }
     ],
     "require": {
