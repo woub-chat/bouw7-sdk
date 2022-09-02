@@ -8,23 +8,6 @@ PHP 5.5 and later
 
 ## Installation & Usage
 ### Composer
-
-To install the bindings via [Composer](http://getcomposer.org/), add the following to `composer.json`:
-
-```
-{
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/pawas007/bouw7-sdk.git"
-    }
-  ],
-  "require": {
-    "/": "*@dev"
-  }
-}
-```
-
 Then run `composer install`
 
 ### Manual Installation
