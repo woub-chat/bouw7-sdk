@@ -1,12 +1,11 @@
 {
-    "name": "pawa/bouw7-sdk",
+    "name": "woub-chat/bouw7-sdk",
     "description": "",
     "keywords": [
         "php",
         "sdk",
         "api"
     ],
-
     "license": "proprietary",
     "authors": [
         {
